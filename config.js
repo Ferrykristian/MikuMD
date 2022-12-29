@@ -7,12 +7,12 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['66945357346']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['66945357346']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['66945357346']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.Owner = ['66945357346'.'6285651011371']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['66945357346'.'6285651011371']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['66945357346'.'6285651011371']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "Miku"
 global.packname = "Miku bot"
-global.author = "By: Fantox"
+global.author = "By: Ferry"
 global.OwnerName = "Ferry Kristian"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
