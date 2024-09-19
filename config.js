@@ -7,11 +7,11 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['66945357346'.'6285651011371']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['66945357346'.'6285651011371']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['66945357346'.'6285651011371']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "Miku"
-global.packname = "Miku bot"
+global.Owner = ['60105637516'.'62882020638582']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['60105637516'.'62882020638582']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['60105637516'.'62882020638582']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.BotName = "KuzoBot"
+global.packname = "Kuzo bot"
 global.author = "By: Ferry"
 global.OwnerName = "Ferry Kristian"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
@@ -23,10 +23,10 @@ global.sessionName = "session"  // -- Don't change otherwise bot will not work -
 global.prefa = ['.'] // Prefix ---  change it to anythong you want except '@' //
 
 
-global.location = "West Bengal, India"
+global.location = "Pontianak, Indonesia"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
-global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
+global.vidmenu = { url: 'https://tenor.com/cBjzIUWSxzA.gif' }
 global.websitex = "https://github.com/FantoX001"
 global.lolhuman = "KaysaS"
 
